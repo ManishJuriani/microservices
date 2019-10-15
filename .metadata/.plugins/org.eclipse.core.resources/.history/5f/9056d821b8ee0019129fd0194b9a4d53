@@ -1,0 +1,5 @@
+package io.manishjuriani.ratingsdataservice.models;
+
+public class Rating {
+
+}

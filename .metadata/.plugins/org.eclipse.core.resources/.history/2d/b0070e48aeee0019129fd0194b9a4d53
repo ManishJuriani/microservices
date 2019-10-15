@@ -1,0 +1,5 @@
+package io.manishjuriani.moviecatalogservice.models;
+
+public class CatalogItem {
+
+}
